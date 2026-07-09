@@ -14,7 +14,7 @@ Each repository in this Org is a Claude Skill — a packaged GTM workflow you ca
 
 Skills are contributed by founders, operators, and revenue leaders across the Stage 2 portfolio and LP network. Each one has been used in production by the operator who built it.
 
-[Browse the Skills →](https://github.com/orgs/stage2-gtm/repositories)
+[Browse the Skills →]([https://github.com/orgs/stage2-gtm/repositories](https://github.com/orgs/stage-2-capital/repositories))
 
 ---
 
